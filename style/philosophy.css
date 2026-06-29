@@ -1,0 +1,59 @@
+.container {
+    display: flex;
+    flex-flow: column;
+    padding: 50px;
+    margin: 25px 15%;
+    background: rgb(230, 232, 235);
+    gap: 30px;
+    border-radius: 20px;
+    box-shadow: 1.5px 2px 10px 3px rgba(0, 0, 0, .4);
+    margin-bottom: 60px;
+
+    & div {
+        padding: 10px 60px;
+    }
+}
+
+.container {
+    & p {
+        font-size: 19px;
+    }
+
+    & h2 {
+        font-size: 25px;
+        margin-bottom: 15px;
+    }
+}
+
+.philosophy #head {
+    padding-bottom: 60px;
+    font-size: 45px;
+    text-align: center;
+    text-shadow: 3px 2px 1px rgba(0, 0, 0, .15);
+}
+@media screen and (max-width: 700px) {
+    
+    .container{
+        flex-flow: column;
+        width: 270px;
+        margin: 25px 5%;
+        
+        & div {
+            padding: 10px 2px;
+        }
+
+        & p {
+            font-size: 15px;
+        }
+    
+        & h2 {
+            font-size: 20px;
+            margin-bottom: 15px;
+        }
+    }
+
+    .philosophy #head {
+        
+        font-size: 30px;
+    }
+}

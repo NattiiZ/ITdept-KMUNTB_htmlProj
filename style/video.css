@@ -1,0 +1,18 @@
+main video {
+    box-shadow: 0 0 10px 3px rgba(0, 0, 0, .4);
+    border-radius: 10px;
+    display: block;
+    margin: 0 auto;
+    position: relative;
+    width: 60%;
+    background: rgba(0, 0, 0, .1);
+    padding: 10px;
+    margin-bottom: 60px;
+}
+
+main .vid {
+    padding-bottom: 60px;
+    font-size: 45px;
+    text-align: center;
+    text-shadow: 3px 2px 1px rgba(0, 0, 0, .15);
+}
