@@ -25,7 +25,6 @@ A responsive website developed as part of an **HTML Project** course. This proje
 * HTML5
 * CSS3
 * JavaScript
-* Bootstrap
 
 ## Usage
 
