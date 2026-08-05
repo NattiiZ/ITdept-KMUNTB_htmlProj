@@ -3,10 +3,13 @@
 A responsive website developed as part of an **HTML Project** course. This project presents information about the IT Department through a simple and user-friendly web interface.
 
 
+### Homepage
 <img width="1293" height="1238" alt="Screenshot 2026-08-05 233206" src="https://github.com/user-attachments/assets/de93c281-fc40-4341-9c35-948297d6e0b0" />
 
+### About > Symbol
 <img width="1295" height="1238" alt="Screenshot 2026-08-05 233322" src="https://github.com/user-attachments/assets/e04eb00b-c412-4372-80f5-32d3329aa6fc" />
 
+### Contact
 <img width="1294" height="1240" alt="Screenshot 2026-08-05 233256" src="https://github.com/user-attachments/assets/ca57447f-48b5-45a5-9dba-abac6f82d7cb" />
 
 
