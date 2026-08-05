@@ -1,4 +1,4 @@
-.Creator {
+/* .Creator {
     background: rgb(230, 232, 235);
     margin: 25px 500px;
     margin-bottom: 60px;
@@ -32,4 +32,31 @@
 
 
     
+} */
+
+.Creator {
+    width: 60%;
+    margin: 50px auto;
+}
+
+.Creator h1 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.name-list {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.name-list p {
+    padding: 10px 20px;
+    border-bottom: 1px solid #ddd;
+    font-size: 18px;
+    margin: 0;
+}
+
+.name-list b {
+    font-size: 20px;
 }
