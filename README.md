@@ -1,5 +1,7 @@
 # IT Department Website
 
+> HTML Project | 1st Year • Semester 1 • 2023
+
 A responsive website developed as part of an **HTML Project** course. This project presents information about the IT Department through a simple and user-friendly web interface.
 
 
